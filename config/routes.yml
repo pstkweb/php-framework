@@ -1,0 +1,5 @@
+#project_route_name:
+#    route: your/url/{param}
+#    controller: "Namespace\Based\ClassController:method"
+#    parameters:
+#        param: "regex"
